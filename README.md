@@ -27,3 +27,18 @@ This project aims to **streamline the development of banking applications** by o
 - Clear separation of concerns with **DAO layer, servlets, and models** for **easy customization and extension**.
 
 ---
+## **Output Looks Like** ✨
+
+![Alt text](28.jpg)
+
+![Alt text](29.jpg)
+
+![Alt text](30.jpg)
+
+![Alt text](31.jpg)
+
+![Alt text](32.jpg)
+
+![Alt text](33.jpg)
+
+![Alt text](34.jpg)
